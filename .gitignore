@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -24,6 +25,8 @@ dist/
 nbdist/
 .nb-gradle/
 
+=======
+>>>>>>> origin/master
 # Compiled class file
 *.class
 
